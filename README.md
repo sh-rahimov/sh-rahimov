@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salom, men Shahzod! 👋 
 
-<!--
-**sh-rahimov/sh-rahimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🚀 C++ Developer | Frontend Enthusiast
 
-Here are some ideas to get you started:
+Men dasturlash olamiga C++ orqali kirib kelganman va hozirda zamonaviy Frontend texnologiyalarini o'rganyapman. Kod yozishda aniqlik va chiroyli interfeys uyg'unligini yaxshi ko'raman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Men foydalanadigan texnologiyalar:
+- **Languages:** C++, HTML5, CSS3, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Learning:** React.js va Algoritmlar
+
+### 📫 Men bilan bog'lanish:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shokh_262) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shokh_262)
